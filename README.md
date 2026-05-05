@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Final-year Computer Science student focused on building practical, real-world tech solutions with a strong emphasis on clean UI/UX, scalable MERN applications, and intelligent AI integrations. Transforms ideas into structured systems—from concept and design to fully functional products—combining creativity with disciplined problem-solving. Experienced in developing booking platforms and AI-driven data systems, consistently delivering under pressure while prioritizing simplicity, clarity, and solutions that actually work in real-world environments.<br>
+<br>Computer Science graduate building practical, real-world tech solutions with a focus on clean UI/UX, scalable MERN applications, and smart AI integrations. Turns ideas into structured, working systems—from concept to product—while prioritizing simplicity, clarity, and results that actually work.<br>
 
 
 ## 🌐 Socials:
