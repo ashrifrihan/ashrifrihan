@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Computer Science graduate building practical, real-world tech solutions with a focus on clean UI/UX, scalable MERN applications, and smart AI integrations. Turns ideas into structured, working systems—from concept to product—while prioritizing simplicity, clarity, and results that actually work.<br>
+<br>Computer Science graduate building practical, real-world tech solutions with a focus on clean UI/UX, scalable MERN applications, and smart AI integrations. Turns ideas into structured, working systems from concept to product while prioritizing simplicity, clarity, and results that actually work.<br>
 
 
 ## 🌐 Socials:
